@@ -8,5 +8,5 @@ public class CalculateSum {
 			return 0;
 		}
 	}
-}
+} 
  
